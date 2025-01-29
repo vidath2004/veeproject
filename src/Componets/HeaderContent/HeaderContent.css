@@ -1,0 +1,29 @@
+.menu{
+    color: #1b3173;
+    text-decoration: none;
+    margin-top: 0px;
+    padding: 50;
+}
+.menu:hover{
+    background-color: #EFB036;
+    padding: 3px 16px;
+    text-decoration: none; 
+    border-radius: 13px;
+}
+
+
+.Mainlogo{
+    height:5rem; 
+    width: 5rem;
+    padding-right: 54%;
+}
+#navcontent {
+    width: 100%;
+    display: flex;
+    background-color: #F5DEB3;
+    font-size: 30px;
+    margin: 10px 20px;
+    align-items: center;
+    list-style: none;
+    text-align: center;
+}
